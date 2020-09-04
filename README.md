@@ -1,1 +1,1 @@
-# MySite
+# https://masaakitakane.github.io/MySite/
